@@ -1,0 +1,6 @@
+{
+    "prettier.tabWidth": 4,
+    "deno.enable": true,
+    "deno.lint": true,
+    "deno.unstable": false
+}
